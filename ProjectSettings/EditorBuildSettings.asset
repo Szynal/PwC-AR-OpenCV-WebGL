@@ -275,4 +275,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/OpenCVForUnity/Examples/ContribModules/tracking/TrackingExample/TrackingExample.unity
     guid: 52d8921b70cdf1949b810e5c7ddab47a
+  - enabled: 1
+    path: Assets/MarkerLessARExample/WebCamTextureMarkerLessARExample/WebCamTextureMarkerLessARExample.unity
+    guid: b32bf9e53e855784ea7a5a45a6705ebf
   m_configObjects: {}
